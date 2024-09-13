@@ -1,0 +1,14 @@
+C:\Users\frebo\DOTNET\bin\Debug\net8.0\DOTNET.exe
+C:\Users\frebo\DOTNET\bin\Debug\net8.0\DOTNET.deps.json
+C:\Users\frebo\DOTNET\bin\Debug\net8.0\DOTNET.runtimeconfig.json
+C:\Users\frebo\DOTNET\bin\Debug\net8.0\DOTNET.dll
+C:\Users\frebo\DOTNET\bin\Debug\net8.0\DOTNET.pdb
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.AssemblyInfoInputs.cache
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.AssemblyInfo.cs
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.dll
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\refint\DOTNET.dll
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.pdb
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\DOTNET.genruntimeconfig.cache
+C:\Users\frebo\DOTNET\obj\Debug\net8.0\ref\DOTNET.dll
