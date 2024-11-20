@@ -1,4 +1,4 @@
-namespace DNDProject.Domain.Models;
+namespace BookTradingHub.Domain.Models;
 
 public record Todo
 {

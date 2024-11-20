@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using DNDProject.Domain.Models;
 
-namespace DNDProject.WebAPI.Services;
+namespace BookTradingHub.WebAPI.Services;
 public class AuthService : IAuthService
 {
     private readonly IList<User> users =

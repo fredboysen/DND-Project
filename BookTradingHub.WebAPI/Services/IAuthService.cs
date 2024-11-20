@@ -1,6 +1,6 @@
 using DNDProject.Domain.Models;
 
-namespace DNDProject.WebAPI.Services;
+namespace BookTradingHub.WebAPI.Services;
 public interface IAuthService
 {
     Task<User> ValidateUser(string username, string password);
