@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSKXBGCgrjE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.10\\microsoft.aspnetcore.metadata.8.0.10.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

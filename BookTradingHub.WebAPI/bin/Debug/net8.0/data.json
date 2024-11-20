@@ -1,0 +1,23 @@
+{
+  "Users": [],
+  "Todos": [
+    {
+      "Id": 4,
+      "Name": "do dishes",
+      "DueDate": "2024-11-24T00:00:00",
+      "IsCompleted": false
+    },
+    {
+      "Id": 6,
+      "Name": "do homework",
+      "DueDate": "2024-10-03T00:00:00",
+      "IsCompleted": false
+    },
+    {
+      "Id": 7,
+      "Name": "do pray",
+      "DueDate": "2024-10-31T18:45:36.098062+01:00",
+      "IsCompleted": false
+    }
+  ]
+}

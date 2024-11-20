@@ -1,4 +1,4 @@
-using DNDProject.Domain.Models;
+using BookTradingHub.Domain.Models;
 
 namespace BookTradingHub.WebAPI.Services;
 public interface IAuthService

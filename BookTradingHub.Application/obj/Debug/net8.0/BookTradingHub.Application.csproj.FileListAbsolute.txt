@@ -1,0 +1,16 @@
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\bin\Debug\net8.0\BookTradingHub.Application.deps.json
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\bin\Debug\net8.0\BookTradingHub.Application.dll
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\bin\Debug\net8.0\BookTradingHub.Application.pdb
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\bin\Debug\net8.0\BookTradingHub.Domain.dll
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\bin\Debug\net8.0\BookTradingHub.Domain.pdb
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.csproj.AssemblyReference.cache
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.AssemblyInfoInputs.cache
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.AssemblyInfo.cs
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.sourcelink.json
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTrad.6CB56DE1.Up2Date
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.dll
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\refint\BookTradingHub.Application.dll
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\BookTradingHub.Application.pdb
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Application\obj\Debug\net8.0\ref\BookTradingHub.Application.dll

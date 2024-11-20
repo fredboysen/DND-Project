@@ -1,9 +1,9 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Text;
-using DNDProject.Application.Interfaces;
-using DNDProject.Domain.Auth;
-using DNDProject.FileStorage;
-using DNDProject.WebAPI.Services;
+using BookTradingHub.Application.Interfaces;
+using BookTradingHub.Domain.Auth;
+using BookTradingHub.FileStorage;
+using BookTradingHub.WebAPI.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;

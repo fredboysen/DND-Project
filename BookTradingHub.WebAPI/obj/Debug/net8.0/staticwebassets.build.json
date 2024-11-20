@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CoEHM0JnaThPTGZ73onDbKKX+CRKLsdJkNlgeo55VlU=",
+  "Source": "BookTradingHub.WebAPI",
+  "BasePath": "_content/BookTradingHub.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
