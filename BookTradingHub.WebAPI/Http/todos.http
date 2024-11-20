@@ -1,0 +1,13 @@
+GET http://localhost:5124/api/todos
+
+###
+
+POST http://localhost:5124/api/todos
+content-type: application/json
+
+{
+    "id": 1,
+    "name": "assssd",
+    "duedate": "0001-01-01T00:00:00",
+    "iscompleted": true
+}

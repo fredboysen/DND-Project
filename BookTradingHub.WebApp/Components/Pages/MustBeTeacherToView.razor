@@ -1,0 +1,6 @@
+@page "/MustBeTeacherToView"
+
+@attribute [Authorize("MustBeTeacher")]
+
+<h3>Block Page With Policy</h3>
+<p>This page can only be viewed if you're a teacher, which you are.</p>

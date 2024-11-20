@@ -1,0 +1,29 @@
+@page "/PolicyExampleWithComponent"
+@using System.Security.Claims
+
+<h3>Policy Example</h3>
+
+<div>Domain:</div>
+<AuthorizeView>
+    <AuthorizeView Policy="MustBeVia">
+        <Authorized Context="_context">
+            <p>This piece of text is only visible, if your domain is VIA</p>
+        </Authorized>
+        <NotAuthorized Context="_context">You don't belong to the via domain, but instead to:
+            @_context.User.Claims.First(claim =>
+                     claim.Type.Equals("Domain")).Value
+        </NotAuthorized>
+    </AuthorizeView>
+</AuthorizeView>
+
+<br />
+
+<div>Security level:</div>
+
+<AuthorizeView>
+    @context.User.Claims.First(c => c.Type.Equals("SecurityLevel")).Value
+</AuthorizeView>
+
+@code {
+
+}

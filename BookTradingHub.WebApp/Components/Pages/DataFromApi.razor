@@ -1,0 +1,26 @@
+@page "/DataFromApi"
+@attribute [Authorize]
+@inject HttpClient httpClient
+
+<h3>Protected data from server</h3>
+
+<p>@response</p>
+
+@code
+{
+    private string response = "";
+    protected async override Task OnInitializedAsync()
+    {
+        await FetchData();
+    }
+
+    async Task FetchData()
+    {
+        try
+        {
+            response = await httpClient.GetStringAsync("test/authorized");
+        }
+        catch { }
+    }
+
+}

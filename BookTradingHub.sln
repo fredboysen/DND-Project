@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTradingHub.FileStorage", "BookTradingHub.FileStorage\BookTradingHub.FileStorage.csproj", "{49D7D031-BBA8-4A5C-AC9C-5B1C55C1B1C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTradingHub.WebAPI", "BookTradingHub.WebAPI\BookTradingHub.WebAPI.csproj", "{17FA2FED-E25E-4B28-A279-152E2F900F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTradingHub.Domain", "BookTradingHub.Domain\BookTradingHub.Domain.csproj", "{387F48CA-42CC-4EF0-80A8-C22077667656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTradingHub.Application", "BookTradingHub.Application\BookTradingHub.Application.csproj", "{F825417C-E210-49A2-A4D7-4F59F99A7BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTradingHub.WebApp", "BookTradingHub.WebApp\BookTradingHub.WebApp.csproj", "{2DCD5817-4713-4356-817D-26E7E0A45F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D7D031-BBA8-4A5C-AC9C-5B1C55C1B1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D7D031-BBA8-4A5C-AC9C-5B1C55C1B1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D7D031-BBA8-4A5C-AC9C-5B1C55C1B1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D7D031-BBA8-4A5C-AC9C-5B1C55C1B1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FA2FED-E25E-4B28-A279-152E2F900F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FA2FED-E25E-4B28-A279-152E2F900F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FA2FED-E25E-4B28-A279-152E2F900F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FA2FED-E25E-4B28-A279-152E2F900F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387F48CA-42CC-4EF0-80A8-C22077667656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387F48CA-42CC-4EF0-80A8-C22077667656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387F48CA-42CC-4EF0-80A8-C22077667656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387F48CA-42CC-4EF0-80A8-C22077667656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F825417C-E210-49A2-A4D7-4F59F99A7BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F825417C-E210-49A2-A4D7-4F59F99A7BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F825417C-E210-49A2-A4D7-4F59F99A7BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F825417C-E210-49A2-A4D7-4F59F99A7BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCD5817-4713-4356-817D-26E7E0A45F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCD5817-4713-4356-817D-26E7E0A45F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCD5817-4713-4356-817D-26E7E0A45F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCD5817-4713-4356-817D-26E7E0A45F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

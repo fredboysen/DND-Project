@@ -1,0 +1,12 @@
+GET http://localhost:5124/api/users
+
+###
+
+POST http://localhost:5124/api/users HTTP/1.1
+Accept: application/json
+content-type: application/json
+
+{
+    "name": "Jens",
+    "address": "Horsens"
+}

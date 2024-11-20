@@ -1,0 +1,12 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<AuthorizeView>
+    <Authorized>
+        <h1>Hello @context.User.Claims.First(claim => claim.Type.Equals("Username")).Value</h1>
+    </Authorized>
+    <NotAuthorized>
+        <h1>Hello World!</h1>
+    </NotAuthorized>
+</AuthorizeView>

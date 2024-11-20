@@ -1,0 +1,32 @@
+@using DNDProject.WebApp.Services.Http
+@namespace Login
+@inject NavigationManager navMgr
+@inject IAuthService authService
+
+<AuthorizeView>
+    <Authorized>
+        <svg @onclick="Logout" width="30" height="30" fill="currentColor">
+            <use xlink:href="bootstrap-icons.svg#box-arrow-left" />
+        </svg>
+    </Authorized>
+    <NotAuthorized>
+        <svg @onclick="Login" width="30" height="30" fill="currentColor">
+            <use xlink:href="bootstrap-icons.svg#box-arrow-in-right" />
+        </svg>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+
+    private void Login()
+    {
+        navMgr.NavigateTo("/Login");
+    }
+
+    private async Task Logout()
+    {
+        await authService.LogoutAsync();
+        navMgr.NavigateTo("/");
+    }
+
+}

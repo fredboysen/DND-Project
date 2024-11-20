@@ -1,0 +1,65 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">BookTradingHub.WebApp</a>
+    </div>
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="viewtodos">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> View Todos
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="MustBeLoggedInToView">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Must Be Logged In
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="MustBeTeacherToView">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Must Be Teacher
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="PolicyExampleWithComponent">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Policy Example Component
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="PolicyExampleManual">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Policy Example Manual
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="ShowCredentialsFromContext">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Credentials Context
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="ShowCredentialsFromAuthState">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Credentials Auth State
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="datafromapi">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Data From API
+            </NavLink>
+        </div>
+    </nav>
+</div>

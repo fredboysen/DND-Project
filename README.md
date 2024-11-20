@@ -1,3 +1,4 @@
+# DNDProject: BookTradingHub
 Contributors:
 Jonas Etmann Skjøth -> https://github.com/jonasskjoeth
 Frederik Boysen -> https://github.com/fredboysen
@@ -25,5 +26,4 @@ Edit/Remove a Book:
 As a user, I want to edit or remove my listed books so that I can update the available inventory.
 Search for Books:
 As a user, I want to search for books by title, author, or genre so that I can quickly find what I’m interested in
-
 
