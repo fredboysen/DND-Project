@@ -38,7 +38,6 @@ C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\static
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
-C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Pages\ViewTodos.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Shared\LoginButtons.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\bundle\BookTradingHub.WebApp.styles.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\BookTradingHub.WebApp.bundle.scp.css
@@ -48,3 +47,4 @@ C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\refint
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.pdb
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.genruntimeconfig.cache
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\ref\BookTradingHub.WebApp.dll
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Pages\ViewBooks.razor.rz.scp.css
