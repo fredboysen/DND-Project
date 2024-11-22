@@ -1,0 +1,41 @@
+@page "/viewavailablebooks"
+@using BookTradingHub.Domain.Models
+@using System.Text.Json
+@inject HttpClient httpClient
+
+<PageTitle>Available Books</PageTitle>
+
+<h1>Books Available for Rental</h1>
+
+@if (availableBooks == null)
+{
+    <p>Loading...</p>
+}
+else if (availableBooks.Count == 0)
+{
+    <p>No books available for rental at the moment.</p>
+}
+else
+{
+    <ul>
+        @foreach (var book in availableBooks)
+        {
+            <li>
+                <strong>@book.Title</strong> by @book.Author
+                <br />
+                <small>ISBN: @book.ISBN, Year: @book.Year</small>
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    List<Book> availableBooks;
+
+    protected async override Task OnInitializedAsync()
+    {
+        var response = await httpClient.GetStringAsync("api/books/available");
+        var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+        availableBooks = JsonSerializer.Deserialize<List<Book>>(response, options);
+    }
+}
