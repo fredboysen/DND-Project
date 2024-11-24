@@ -48,3 +48,6 @@ C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\refint
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.pdb
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.genruntimeconfig.cache
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\ref\BookTradingHub.WebApp.dll
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\bin\Debug\net8.0\BookTradingHub.WebApp.staticwebassets.endpoints.json
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.BookTradingHub.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

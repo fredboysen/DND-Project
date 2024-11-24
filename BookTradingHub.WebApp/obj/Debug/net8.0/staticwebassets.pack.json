@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookTradingHub.WebApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BookTradingHub.WebApp.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BookTradingHub.WebApp.ym4ipxx747.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\wwwroot\\app.css",
@@ -23,6 +23,10 @@
     {
       "Id": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookTradingHub.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookTradingHub.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
