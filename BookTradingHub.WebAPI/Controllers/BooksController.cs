@@ -11,6 +11,7 @@ namespace BookTradingHub.WebAPI.Controllers
     public class BooksController(IBookService bookService) : ControllerBase
     {
         /// <summary>
+        /// Retrieves all book listings.
         /// </summary>
         [HttpGet]
         public ActionResult<IEnumerable<Book>> GetBooks()
@@ -19,6 +20,7 @@ namespace BookTradingHub.WebAPI.Controllers
         }
 
         /// <summary>
+        /// Saves a new book listing.
         /// </summary>
         [HttpPost(Name = "SaveBook")]
         public async Task<ActionResult> SaveBookAsync(Book book)
@@ -28,6 +30,7 @@ namespace BookTradingHub.WebAPI.Controllers
         }
 
         /// <summary>
+        /// Updates an existing book listing by ID.
         /// </summary>
         [HttpPut("{id}")]
         public async Task<ActionResult> UpdateBookAsync(int id, Book book)
@@ -41,6 +44,7 @@ namespace BookTradingHub.WebAPI.Controllers
         }
 
         /// <summary>
+        /// Removes a book listing by ID.
         /// </summary>
         [HttpDelete("{id}")]
         public async Task<ActionResult> RemoveBookAsync(int id)
@@ -48,16 +52,5 @@ namespace BookTradingHub.WebAPI.Controllers
             await bookService.RemoveBookAsync(id);
             return NoContent();
         }
-
- /// <summary>
-    /// Gets the list of books available for rental.
-    /// </summary>
-    [HttpGet("available")]
-    public ActionResult<IEnumerable<Book>> GetAvailableBooks()
-    {
-        var availableBooks = bookService.GetAvailableBooks();
-        return Ok(availableBooks);
     }
-
 }
-

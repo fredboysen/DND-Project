@@ -58,10 +58,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG93Q3JlZGVudGlhbHNGcm9tQ29udGV4dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frebo/Dotnet1/DND-Project/BookTradingHub.WebApp/Components/Pages/ViewAvailableBooks.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWaWV3QXZhaWxhYmxlQm9va3MucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/frebo/Dotnet1/DND-Project/BookTradingHub.WebApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

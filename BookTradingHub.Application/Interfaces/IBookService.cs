@@ -1,9 +1,26 @@
+using BookTradingHub.Domain.Models;
+
+namespace BookTradingHub.Application.Interfaces;
+
 public interface IBookService
 {
-    List<Book> GetBooks();
-    Task RemoveBookAsync(int id);
-    Task<Book> SaveBookAsync(Book book);
-    Task UpdateBookAsync(Book book);
+    /// <summary>
+    /// Retrieves all book listings.
+    /// </summary>
+    public List<Book> GetBooks();
 
-    List<Book> GetAvailableBooks();
+    /// <summary>
+    /// Removes a book listing by its ID.
+    /// </summary>
+    Task RemoveBookAsync(int id);
+
+    /// <summary>
+    /// Saves a new book listing.
+    /// </summary>
+    public Task<Book> SaveBookAsync(Book book);
+
+    /// <summary>
+    /// Updates an existing book listing.
+    /// </summary>
+    Task UpdateBookAsync(Book book);
 }
