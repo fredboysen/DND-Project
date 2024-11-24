@@ -60,10 +60,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG93Q3JlZGVudGlhbHNGcm9tQ29udGV4dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonas/OneDrive/Skrivebord/Global Business Engineering/DND/DND-Project/BookTradingHub.WebApp/Components/Pages/ViewAvailableBooks.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWaWV3QXZhaWxhYmxlQm9va3MucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/jonas/OneDrive/Skrivebord/Global Business Engineering/DND/DND-Project/BookTradingHub.WebApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,9 +80,9 @@ build_metadata.AdditionalFiles.CssScope = b-0c9fanig9z
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ud8mxqunng
 
-[C:/Users/jonas/OneDrive/Skrivebord/Global Business Engineering/DND/DND-Project/BookTradingHub.WebApp/Components/Pages/ViewBooks.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWaWV3Qm9va3MucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-d8n6m9opkz
+[C:/Users/jonas/OneDrive/Skrivebord/Global Business Engineering/DND/DND-Project/BookTradingHub.WebApp/Components/Pages/ViewTodos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWaWV3VG9kb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mfmqjk4tz4
 
 [C:/Users/jonas/OneDrive/Skrivebord/Global Business Engineering/DND/DND-Project/BookTradingHub.WebApp/Components/Shared/LoginButtons.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTG9naW5CdXR0b25zLnJhem9y

@@ -1,8 +1,13 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookTradingHub.WebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\BookTradingHub.WebApp.e8kqfite7n.bundle.scp.css"
+=======
+      "Id": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookTradingHub.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookTradingHub.WebApp.ym4ipxx747.bundle.scp.css"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
     },
     {
       "Id": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.WebApp\\wwwroot\\app.css",

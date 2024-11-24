@@ -271,12 +271,12 @@ main[b-r3fbocw5im] {
   transform: scale(1.1);
   box-shadow: 0 2px 10px 2px #3f3f3f;
 }
-/* _content/BookTradingHub.WebApp/Components/Pages/ViewBooks.razor.rz.scp.css */
-ul[b-d8n6m9opkz] {
+/* _content/BookTradingHub.WebApp/Components/Pages/ViewTodos.razor.rz.scp.css */
+ul[b-mfmqjk4tz4] {
   list-style-type: none;
   padding: 0;
 }
-li svg:hover[b-d8n6m9opkz] {
+li svg:hover[b-mfmqjk4tz4] {
   cursor: pointer;
   fill: brown;
 }

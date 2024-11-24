@@ -3,6 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+<<<<<<< HEAD
       "Route": "BookTradingHub.WebApp.e8kqfite7n.styles.css",
       "AssetFile": "BookTradingHub.WebApp.styles.css",
       "Selectors": [],
@@ -48,6 +49,8 @@
       ]
     },
     {
+=======
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
       "Route": "BookTradingHub.WebApp.styles.css",
       "AssetFile": "BookTradingHub.WebApp.styles.css",
       "Selectors": [],
@@ -70,17 +73,74 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"EtAtvb3tdf6VzRKxVXtiJB7qdWyjTkJNhEyTGzTADSc=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sun, 24 Nov 2024 09:16:39 GMT"
+=======
+          "Value": "\"Bmt+e1dR5I7/Gki2T9jz4yhPwZfuqk01H6OYk5FoMkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 16:19:11 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-EtAtvb3tdf6VzRKxVXtiJB7qdWyjTkJNhEyTGzTADSc="
+=======
+          "Value": "sha256-Bmt+e1dR5I7/Gki2T9jz4yhPwZfuqk01H6OYk5FoMkA="
+        }
+      ]
+    },
+    {
+      "Route": "BookTradingHub.WebApp.ym4ipxx747.styles.css",
+      "AssetFile": "BookTradingHub.WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bmt+e1dR5I7/Gki2T9jz4yhPwZfuqk01H6OYk5FoMkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 16:19:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ym4ipxx747"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bmt+e1dR5I7/Gki2T9jz4yhPwZfuqk01H6OYk5FoMkA="
+        },
+        {
+          "Name": "label",
+          "Value": "BookTradingHub.WebApp.styles.css"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ]
     },
@@ -111,7 +171,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -148,7 +212,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -193,7 +261,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -238,7 +310,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -275,7 +351,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -320,7 +400,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -357,7 +441,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -402,7 +490,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -439,7 +531,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [
@@ -484,7 +580,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 21 Nov 2024 08:45:48 GMT"
+=======
+          "Value": "Sun, 24 Nov 2024 15:40:43 GMT"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
         }
       ],
       "EndpointProperties": [

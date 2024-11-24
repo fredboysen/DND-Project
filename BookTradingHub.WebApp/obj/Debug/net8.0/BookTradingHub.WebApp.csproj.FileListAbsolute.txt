@@ -38,6 +38,7 @@ C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\static
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Pages\ViewTodos.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Shared\LoginButtons.razor.rz.scp.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\bundle\BookTradingHub.WebApp.styles.css
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\BookTradingHub.WebApp.bundle.scp.css
@@ -47,6 +48,7 @@ C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\refint
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.pdb
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.genruntimeconfig.cache
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\ref\BookTradingHub.WebApp.dll
+<<<<<<< HEAD
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\scopedcss\Components\Pages\ViewBooks.razor.rz.scp.css
 C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.WebApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.WebApp\bin\Debug\net8.0\appsettings.json
@@ -101,3 +103,8 @@ C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\B
 C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.pdb
 C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\BookTradingHub.WebApp.genruntimeconfig.cache
 C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\ref\BookTradingHub.WebApp.dll
+=======
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\bin\Debug\net8.0\BookTradingHub.WebApp.staticwebassets.endpoints.json
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.BookTradingHub.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac

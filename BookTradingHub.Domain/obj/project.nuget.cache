@@ -1,9 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dpIARip3fD0=",
+=======
+  "dgSpecHash": "m2lM+SDEAv8=",
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
   "success": true,
   "projectFilePath": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.10\\microsoft.aspnetcore.metadata.8.0.10.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
@@ -13,6 +18,17 @@
     "C:\\Users\\jonas\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+=======
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.10\\microsoft.aspnetcore.metadata.8.0.10.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+>>>>>>> 0ca156a3f832c9e5183423317f22a8b8b7847cac
   ],
   "logs": []
 }
