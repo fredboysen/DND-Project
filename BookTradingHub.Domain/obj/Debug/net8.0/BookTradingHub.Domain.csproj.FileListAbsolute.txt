@@ -11,3 +11,16 @@ C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTr
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\refint\BookTradingHub.Domain.dll
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.pdb
 C:\Users\frebo\Dotnet1\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\ref\BookTradingHub.Domain.dll
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\bin\Debug\net8.0\BookTradingHub.Domain.deps.json
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\bin\Debug\net8.0\BookTradingHub.Domain.dll
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\bin\Debug\net8.0\BookTradingHub.Domain.pdb
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.sourcelink.json
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.dll
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\refint\BookTradingHub.Domain.dll
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\BookTradingHub.Domain.pdb
+C:\Users\jonas\OneDrive\Skrivebord\Global Business Engineering\DND\DND-Project\BookTradingHub.Domain\obj\Debug\net8.0\ref\BookTradingHub.Domain.dll

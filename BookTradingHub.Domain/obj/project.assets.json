@@ -334,19 +334,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\frebo\\.nuget\\packages\\": {}
+    "C:\\Users\\jonas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
       "projectName": "BookTradingHub.Domain",
-      "projectPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
-      "packagesPath": "C:\\Users\\frebo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\obj\\",
+      "projectPath": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+      "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\frebo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -368,8 +368,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -391,12 +392,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
