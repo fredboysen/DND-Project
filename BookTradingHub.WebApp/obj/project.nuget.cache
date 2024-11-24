@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T21bxBetxjg=",
+  "dgSpecHash": "xnoBu2WAsVo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",
     "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
@@ -23,12 +23,5 @@
     "C:\\Users\\frebo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
     "C:\\Users\\frebo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

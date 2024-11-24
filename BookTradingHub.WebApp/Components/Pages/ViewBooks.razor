@@ -1,0 +1,30 @@
+@page "/viewbooks"
+@using BookTradingHub.Domain.Models
+@inject HttpClient httpClient
+
+<PageTitle>Books Overview</PageTitle>
+
+<h1>Available Books</h1>
+
+@if (books == null || !books.Any())
+{
+    <p>No books available.</p>
+}
+else
+{
+    <ul>
+        @foreach (var book in books)
+        {
+            <li>@book.Title by @book.Author (Available: @(book.IsAvailable ? "Yes" : "No"))</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Book> books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await httpClient.GetFromJsonAsync<List<Book>>("api/books");
+    }
+}

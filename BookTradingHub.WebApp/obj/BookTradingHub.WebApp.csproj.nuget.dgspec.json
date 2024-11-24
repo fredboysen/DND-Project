@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj": {}
+    "C:\\Users\\frebo\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {
+    "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
         "projectName": "BookTradingHub.Domain",
-        "projectPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+        "projectPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
         "packagesPath": "C:\\Users\\frebo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\obj\\",
+        "outputPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frebo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj": {
+    "C:\\Users\\frebo\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj",
         "projectName": "BookTradingHub.WebApp",
-        "projectPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj",
+        "projectPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.WebApp\\BookTradingHub.WebApp.csproj",
         "packagesPath": "C:\\Users\\frebo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frebo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {
-                "projectPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj"
+              "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {
+                "projectPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj"
               }
             }
           }

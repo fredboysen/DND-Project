@@ -339,11 +339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
       "projectName": "BookTradingHub.Domain",
-      "projectPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+      "projectPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
       "packagesPath": "C:\\Users\\frebo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\obj\\",
+      "outputPath": "C:\\Users\\frebo\\DND-Project\\BookTradingHub.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frebo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -414,13 +414,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
