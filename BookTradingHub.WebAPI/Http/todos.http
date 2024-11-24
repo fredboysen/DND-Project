@@ -1,8 +1,8 @@
-GET http://localhost:5124/api/books
+GET http://localhost:5124/api/todos
 
 ###
 
-POST http://localhost:5124/api/books
+POST http://localhost:5124/api/todos
 content-type: application/json
 
 {
