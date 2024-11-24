@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {}
+    "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {
+    "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
         "projectName": "BookTradingHub.Domain",
-        "projectPath": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
-        "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonas\\OneDrive\\Skrivebord\\Global Business Engineering\\DND\\DND-Project\\BookTradingHub.Domain\\obj\\",
+        "projectPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\BookTradingHub.Domain.csproj",
+        "packagesPath": "C:\\Users\\frebo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frebo\\Dotnet1\\DND-Project\\BookTradingHub.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\frebo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
